@@ -1,6 +1,7 @@
 # android-login-registration-client
-Android Code for Login Registration
+test - android app
 
-Explanation : https://www.learn2crack.com/2016/04/android-login-registration-php-mysql-client.html
+from the android app...
 
-Reset password by email functionality is added in the branch reset-password.
+used to test git/android studio
+
